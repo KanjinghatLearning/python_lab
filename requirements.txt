@@ -1,0 +1,9 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+scipy==1.15.1
+numpy==2.2.2
+matplotlib==3.10.0
+scikit-learn
+statsmodels==0.14.4
+ipykernel==6.29.5
+
+
